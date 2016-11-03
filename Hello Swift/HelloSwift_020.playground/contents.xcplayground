@@ -4,5 +4,10 @@
         <page name='目录'/>
         <page name='枚举 Raw Value'/>
         <page name='枚举 Associate Value'/>
+        <page name='枚举 枚举和可选型的关系'/>
+        <page name='枚举 递归枚举'/>
+        <page name='结构体'/>
+        <page name='枚举 补充 枚举方法'/>
+        <page name='结构体 枚举 值类型'/>
     </pages>
 </playground>
