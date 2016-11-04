@@ -9,5 +9,8 @@
         <page name='结构体'/>
         <page name='枚举 补充 枚举方法'/>
         <page name='结构体 枚举 值类型'/>
+        <page name='类 &amp; mutating'/>
+        <page name='类 等价'/>
+        <page name='类和结构体的选择'/>
     </pages>
 </playground>
