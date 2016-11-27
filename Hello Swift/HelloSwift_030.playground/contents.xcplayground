@@ -3,5 +3,10 @@
     <pages>
         <page name='计算属性'/>
         <page name='类型属性 类型方法'/>
+        <page name='属性观察器'/>
+        <page name='延迟属性 lazy'/>
+        <page name='访问控制'/>
+        <page name='单例模式'/>
+        <page name='两段式构造'/>
     </pages>
 </playground>
