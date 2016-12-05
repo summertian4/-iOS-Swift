@@ -8,5 +8,7 @@
         <page name='访问控制'/>
         <page name='单例模式'/>
         <page name='两段式构造'/>
+        <page name='构造函数的继承'/>
+        <page name='required 构造函数'/>
     </pages>
 </playground>
