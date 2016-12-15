@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
     <pages>
         <page name='下标'/>
-        <page name='Untitled Page'/>
+        <page name='运算符重载'/>
+        <page name='自定义运算符'/>
     </pages>
 </playground>
