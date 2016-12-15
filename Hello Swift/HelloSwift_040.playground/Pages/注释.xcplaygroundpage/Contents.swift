@@ -31,6 +31,7 @@ func showMultilineComments() -> String {
  2. LIST 1
  3. LIST 1
  
+ 算法类关键字：
  - Parameter item1: 第一个参数
  - Parameter item2: 第二个参数
  - Returns: 返回值
@@ -45,6 +46,14 @@ func showMultilineComments() -> String {
  - Attention: 警告信息
  - Note: 记录
  - Remark: 评论
+ 
+ 版权类关键字：
+ - Author: zhoulingyu
+ - Authors: hah
+ - Copyright: coderfish@163.com
+ - Date: 6 Dec, 2016
+ - Since: iOS 5
+ - Version: 1.1.0
  
  */
 func showMultilineComments2(item1: String, item2: Int) throws -> String {
