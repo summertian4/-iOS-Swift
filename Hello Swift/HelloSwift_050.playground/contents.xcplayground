@@ -7,5 +7,7 @@
         <page name='扩展 Extension'/>
         <page name='Swift 嵌套类型'/>
         <page name='泛型 Generic'/>
+        <page name='协议 Protocol'/>
+        <page name='别名 typealias 和 关联类型 associatedtype'/>
     </pages>
 </playground>
