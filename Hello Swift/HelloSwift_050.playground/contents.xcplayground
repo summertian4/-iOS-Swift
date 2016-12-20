@@ -9,5 +9,9 @@
         <page name='泛型 Generic'/>
         <page name='协议 Protocol'/>
         <page name='别名 typealias 和 关联类型 associatedtype'/>
+        <page name='常见协议'/>
+        <page name='扩展协议'/>
+        <page name='面向协议编程'/>
+        <page name='协议聚合'/>
     </pages>
 </playground>

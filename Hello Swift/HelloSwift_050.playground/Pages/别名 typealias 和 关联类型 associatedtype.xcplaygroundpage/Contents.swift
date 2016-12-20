@@ -5,11 +5,11 @@ import Foundation
 typealias Length = Double
 
 extension Double {
-    var km: Length{
+    var km: Length {
         return self * 1000.0
     }
     
-    var m: Length{
+    var m: Length {
         return self
     }
 }
@@ -29,13 +29,12 @@ protocol WeightCalcutable {
 class iPhone7: WeightCalcutable {
     typealias WeightType = Double
     
-    var weight: Double
+    var weight: Double = 0.0
 }
 
 class Ship: WeightCalcutable {
     typealias WeightType = Int
-    let weight: Int
+    let weight: Int = 0
 }
-
 
 //: [Next](@next)
