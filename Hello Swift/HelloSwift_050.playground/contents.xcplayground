@@ -13,5 +13,6 @@
         <page name='扩展协议'/>
         <page name='面向协议编程'/>
         <page name='协议聚合'/>
+        <page name='泛型约束'/>
     </pages>
 </playground>
