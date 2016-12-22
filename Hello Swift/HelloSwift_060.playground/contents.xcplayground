@@ -2,6 +2,6 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='Swift 强制结束程序'/>
-        <page name='Untitled Page'/>
+        <page name='错误类型 ErrorType'/>
     </pages>
 </playground>
