@@ -3,5 +3,6 @@
     <pages>
         <page name='Swift 强制结束程序'/>
         <page name='错误类型 ErrorType'/>
+        <page name='deinit'/>
     </pages>
 </playground>
